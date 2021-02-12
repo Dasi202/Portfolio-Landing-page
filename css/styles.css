@@ -1,9 +1,10 @@
 h1 {
-    color:aqua;
+    color:rgb(9, 255, 0);
     text-align: center;
+    text-decoration-line: underline;
 }
 .resize {
     width: auto;
     height: auto;
-    float: initial;
+    float: right;
 }
