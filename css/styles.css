@@ -38,3 +38,6 @@ ul {
   p {
       font-family:sans-serif ;
   }
+  ol {
+      line-height: 30px;
+  }
