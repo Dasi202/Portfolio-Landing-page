@@ -1,15 +1,15 @@
-#Project name
+# Project name
 Portfolio Landing Page
-##Author's name
+## Author's name
 Danlon Situma
-##Description of project
+## Description of project
 A landing page for my programming portfolio
-##Project setup instructions
+## Project setup instructions
 * Copy the repository url
 * Clone the repository
-##Link to live site on GitHub Pages
+## Link to live site on GitHub Pages
 
-##Copyright and license information
+## Copyright and license information
 MIT License
 Copyright (c) [2021] [Danlon Situma]
 Permission is hereby granted, free of charge, to any person obtaining a copy
