@@ -8,7 +8,7 @@ A landing page for my programming portfolio
 * Copy the repository url
 * Clone the repository
 ## Link to live site on GitHub Pages
-
+https://dasi202.github.io/Portfolio-Landing-page/
 ## Copyright and license information
 MIT License
 Copyright (c) [2021] [Danlon Situma]
