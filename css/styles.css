@@ -1,10 +1,18 @@
+body{
+    background-color:blanchedalmond
+}
 h1 {
-    color:rgb(9, 255, 0);
+    color:maroon;
     text-align: center;
     text-decoration-line: underline;
+    font-style: italic;
 }
 .resize {
-    width: auto;
-    height: auto;
-    float: right;
+    width: 250px;
+    height: 300px;
+    float: inline-start;
+}
+.column{
+    width:1050px;
+    float:right;
 }
