@@ -1,5 +1,6 @@
 body{
-    background-color:blanchedalmond
+    background-color:blanchedalmond;
+    background-image: url("..images/backgrond.jpg");
 }
 h1 {
     color:maroon;
@@ -15,4 +16,9 @@ h1 {
 .column{
     width:1050px;
     float:right;
+}
+.important{
+    font-style: italic;
+    font-weight: bold;
+    color: red;
 }
