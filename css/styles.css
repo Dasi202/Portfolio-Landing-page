@@ -1,6 +1,7 @@
 body{
     background-color:blanchedalmond;
     background-image: url("..images/backgrond.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1 {
     color:maroon;
@@ -33,4 +34,7 @@ ul {
   }
   .unimportant {
       color: red;
+  }
+  p {
+      font-family:sans-serif ;
   }
